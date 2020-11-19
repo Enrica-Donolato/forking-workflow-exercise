@@ -2,7 +2,7 @@
 - pork meat
 - pita
 - tomato
-- onion
+- sliced onion
 - tzatziki
 ## Instructions
 Add stuff to pita; roll; enjoy!
